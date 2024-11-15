@@ -41,7 +41,7 @@ Just 2 teams would benefit from a change to weighted scoring rate regardless of 
 
 - BUF: 9th Overall, 7th TD Rate -> 6th Weighted
 - CLE: 12th Overall, 13th TD Rate -> 11th Weighted
-Several other teams have a weighted rate tied with their scoring rate or touchdown rate.
+- Several other teams have a weighted rate tied with their scoring rate or touchdown rate.
 
 Note: the statistics above are accurate as of Week 10 of 2024.
 
